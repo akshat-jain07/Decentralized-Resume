@@ -2,7 +2,7 @@
 
 > **Verifiable, employer-signed work history on the Stellar blockchain — no middlemen, no forgery.**
 
----
+---/
 
 ## Project Description
 
